@@ -2,5 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    --tw-bg-opacity: 1;
+    background-color: rgba(255, 251, 235, var(--tw-bg-opacity));
+    font-family: Kufam;
+    height: 100%;
+}
 
-
+body {
+    margin: 0;
+}
