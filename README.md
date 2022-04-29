@@ -1,4 +1,4 @@
-[DEMO](https://626c51e28f96b108b5de1dd3--glistening-sable-0ef3fd.netlify.app/).
+[DEMO](https://626c51e28f96b108b5de1dd3--glistening-sable-0ef3fd.netlify.app/)
 
 # Getting Started with Create React App
 
