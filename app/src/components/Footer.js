@@ -54,7 +54,7 @@ export default function Footer() {
                 </div>
             </div>
             <div className="flex flex-col items-center mt-24 text-xs text-gray-400">
-                <span>&copy; Coffee Shop Specialist 2021</span>
+                <span>&copy; Coffee Shop Specialist {new Date().getFullYear()}</span>
             </div>
         </footer>
     );
