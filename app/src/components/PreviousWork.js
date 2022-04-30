@@ -15,7 +15,7 @@ export default function PreviousWork() {
                             molestie dui.
                             Ullamcorper.</p>
                         <a className="inline-block uppercase text-center text-sm font-bold px-5 py-3 lg:px-10 lg:py-4 rounded-tr-3xl rounded-bl-3xl bg-gray-900 text-yellow-50 hover:bg-gray-700 focus:ring-2 focus:ring-yellow-300"
-                            href="/project-url.html">View Project</a>
+                            href="https://github.com/SandraAnghel" target="_blank" rel="noreferrer noopener">View Project</a>
                     </div>
                     <div
                         className="relative h-80 lg:w-80 mt-8 lg:mt-0 -mx-4 lg:mx-0 lg:rounded-tl-10xl lg:rounded-br-10xl overflow-hidden">
@@ -36,7 +36,7 @@ export default function PreviousWork() {
                             molestie dui.
                             Ullamcorper.</p>
                         <a className="inline-block uppercase text-center text-sm font-bold px-5 py-3 lg:px-10 lg:py-4 rounded-tl-3xl rounded-br-3xl bg-gray-900 text-yellow-50 hover:bg-gray-700 focus:ring-2 focus:ring-yellow-300"
-                            href="/project-url.html">View Project</a>
+                            href="https://github.com/SandraAnghel" target="_blank" rel="noreferrer noopener">View Project</a>
                     </div>
                     <div
                         className="relative h-80 lg:w-80 mt-8 lg:mt-0 -mx-4 lg:mx-0 lg:rounded-tr-10xl lg:rounded-bl-10xl overflow-hidden">
@@ -57,7 +57,7 @@ export default function PreviousWork() {
                             molestie dui.
                             Ullamcorper.</p>
                         <a className="inline-block uppercase text-center text-sm font-bold px-5 py-3 lg:px-10 lg:py-4 rounded-tr-3xl rounded-bl-3xl bg-gray-900 text-yellow-50 hover:bg-gray-700 focus:ring-2 focus:ring-yellow-300"
-                            href="/project-url.html">View Project</a>
+                            href="https://github.com/SandraAnghel" target="_blank" rel="noreferrer noopener">View Project</a>
                     </div>
                     <div
                         className="relative h-80 lg:w-80 mt-8 lg:mt-0 -mx-4 lg:mx-0 lg:rounded-tl-10xl lg:rounded-br-10xl overflow-hidden">
