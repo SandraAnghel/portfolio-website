@@ -1,12 +1,13 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function GrowthTips() {
     return (
         <>
             <section className="pt-24 pb-40 lg:pt-40 lg:pb-60 flex justify-center">
                 <ul className="mx-8 w-full md:mx-auto md:w-11/12 lg:mx-auto lg:w-2/3 xl:w-1/2">
-                    <a className="inline-block bg-white rounded-md transition-all duration-300 hover:bg-yellow-100 shadow-sm p-4 lg:p-8  mb-16 md:mb-12 border  border-gray-200"
-                        href="./how_to_use_organic_seo.html">
+                    <Link className="inline-block bg-white rounded-md transition-all duration-300 hover:bg-yellow-100 shadow-sm p-4 lg:p-8  mb-16 md:mb-12 border  border-gray-200"
+                        to="/organicseo">
                         <div className="flex flex-col-reverse md:grid md:grid-cols-5">
                             <div className="flex min-h-0 flex-col col-start-1 col-end-3 md:mr-6">
                                 <div className="mt-2 md:mt-0"><span className="uppercase font-semibold text-gray-700 text-xs">Ideas</span><span
@@ -31,7 +32,7 @@ export default function GrowthTips() {
                                     alt="Waves breaking on a perfect shore." />
                             </div>
                         </div>
-                    </a>
+                    </Link>
 
                     <div className="md:flex">
                         <div className="flex flex-col md:w-1/2 md:mr-4">
