@@ -8,7 +8,7 @@ export default function Contact() {
                     <div
                         className="relative flex-grow justify-center px-8 lg:px-20 flex items-center py-20 lg:py-48 rounded-r-full overflow-hidden">
                         <div className="absolute top-0 right-0 bottom-0 left-0 bg-gray-800">
-                            <img className="h-full w-full object-cover opacity-30" src="/work_3.jpg" alt="A coffee shop." />
+                            <img className="h-full w-full object-cover opacity-30" src="./images/work_3.jpg" alt="A coffee shop." />
                         </div>
                         <div className="z-10">
                             <h2 className="font-medium mb-5 text-yellow-50">Get in Touch</h2>

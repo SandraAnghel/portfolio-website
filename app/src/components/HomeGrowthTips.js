@@ -19,7 +19,7 @@ export default function HomeGrowthTips() {
                 <a className="inline-block uppercase text-center text-sm font-bold px-5 py-3 lg:px-10 lg:py-4 rounded-tr-3xl rounded-bl-3xl bg-gray-900 text-yellow-50 hover:bg-gray-700 focus:ring-2 focus:ring-yellow-300"
                     href="/growth_tips.html">See Tips</a>
             </div>
-            <img src="/coffee_growth.png" alt="A happy cartoon woman holding a green growing plant." />
+            <img src="./images/coffee_growth.png" alt="A happy cartoon woman holding a green growing plant." />
         </div>
     </section>
     );

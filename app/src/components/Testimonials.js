@@ -19,7 +19,7 @@ export default function Testimonials() {
         </div>
         <div className="flex mt-10">
           <div className="h-12 w-12 flex-shrink-0">
-            <img className="w-full h-full rounded-full shadow-inner" src="/testimonials/smiling_man.png"
+            <img className="w-full h-full rounded-full shadow-inner" src="./images/smiling_man.png"
               alt="A smiling man."/>
           </div>
           <div className="ml-4">
@@ -40,7 +40,7 @@ export default function Testimonials() {
         </div>
         <div className="flex mt-10">
           <div className="h-12 w-12 flex-shrink-0">
-            <img className="w-full h-full rounded-full shadow-inner" src="/testimonials/smiling_woman.jpg"
+            <img className="w-full h-full rounded-full shadow-inner" src="./images/smiling_woman.jpg"
               alt="A smiling woman."/>
           </div>
           <div className="ml-4">
@@ -61,7 +61,7 @@ export default function Testimonials() {
         </div>
         <div className="flex mt-10">
           <div className="h-12 w-12 flex-shrink-0">
-            <img className="w-full h-full rounded-full shadow-inner" src="/testimonials/smiling_man_2.jpg"
+            <img className="w-full h-full rounded-full shadow-inner" src="./images/smiling_man_2.jpg"
               alt="A smiling man."/>
           </div>
           <div className="ml-4">

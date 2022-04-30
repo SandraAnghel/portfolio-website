@@ -17,7 +17,7 @@ export default function GrowthTips() {
                                     consequatur cumque magnam ipsam quae sequi laudantium pariatur veritatis?</p>
                                 <div className="flex items-center">
                                     <div className="h-12 w-12 rounded-md overflow-hidden flex-shrink-0">
-                                        <img className="w-full h-full object-cover object-bottom" src="./writers/writer.png"
+                                        <img className="w-full h-full object-cover object-bottom" src="./images/writer.png"
                                             alt="A smiling female George Orwell." />
                                     </div>
                                     <div className="ml-2 text-xs">
@@ -27,7 +27,7 @@ export default function GrowthTips() {
                                 </div>
                             </div>
                             <div className="rounded-md overflow-hidden h-48 lg:h-full lg:min-h-0 lg:col-start-3 lg:col-end-6">
-                                <img className="w-full h-full object-cover object-bottom" src="./writers/growth_tips_hero.jpg"
+                                <img className="w-full h-full object-cover object-bottom" src="./images/growth_tips_hero.jpg"
                                     alt="Waves breaking on a perfect shore." />
                             </div>
                         </div>
@@ -38,7 +38,7 @@ export default function GrowthTips() {
                             <a href="/blog"
                                 className="inline-block bg-white rounded-md transition-all duration-300 hover:bg-yellow-100 shadow-sm p-4  mb-16 md:mb-12 border  border-gray-200">
                                 <div className="rounded-md overflow-hidden h-48 lg:h-72">
-                                    <img className="h-full w-full object-cover rounded-md" src="./writers/post_2.jpg"
+                                    <img className="h-full w-full object-cover rounded-md" src="./images/post_2.jpg"
                                         alt="A cool rubber duck in a blue swimming pool." />
                                 </div>
                                 <div className="flex flex-col ">
@@ -51,7 +51,7 @@ export default function GrowthTips() {
                                         consequatur cumque magnam ipsam quae sequi laudantium pariatur veritatis? </p>
                                     <div className="flex items-center">
                                         <div className="h-12 w-12 rounded-md overflow-hidden flex-shrink-0">
-                                            <img className="w-full h-full object-cover object-bottom" src="./writers/writer-3.png"
+                                            <img className="w-full h-full object-cover object-bottom" src="./images/writer-3.png"
                                                 alt="A smiling Satoshi Nakamoto." />
                                         </div>
                                         <div className="ml-2 text-xs">
@@ -67,7 +67,7 @@ export default function GrowthTips() {
                             <a href="/blog"
                                 className="inline-block bg-white rounded-md transition-all duration-300 hover:bg-yellow-100 shadow-sm p-4  mb-16 md:mb-12 border  border-gray-200">
                                 <div className="rounded-md overflow-hidden h-48 lg:h-72">
-                                    <img className="h-full w-full object-cover rounded-md" src="./writers/post_3.jpg"
+                                    <img className="h-full w-full object-cover rounded-md" src="./images/post_3.jpg"
                                         alt="A blue hotel swimming pool flanked by two palm trees." />
                                 </div>
                                 <div className="flex flex-col">
@@ -81,7 +81,7 @@ export default function GrowthTips() {
                                         consequatur cumque magnam ipsam quae sequi laudantium pariatur veritatis?</p>
                                     <div className="flex items-center">
                                         <div className="h-12 w-12 rounded-md overflow-hidden flex-shrink-0">
-                                            <img className="w-full h-full object-cover object-bottom" src="./writers/writer-2.png"
+                                            <img className="w-full h-full object-cover object-bottom" src="./images/writer-2.png"
                                                 alt="A smiling female Jack Johnson." />
                                         </div>
                                         <div className="ml-2 text-xs">

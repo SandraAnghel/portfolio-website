@@ -21,7 +21,7 @@ export default function PreviousWork() {
                         className="relative h-80 lg:w-80 mt-8 lg:mt-0 -mx-4 lg:mx-0 lg:rounded-tl-10xl lg:rounded-br-10xl overflow-hidden">
                         <div className="absolute top-0 right-0 left-0 bottom-0 opacity-30 bg-yellow-50">
                         </div>
-                        <img className="h-full w-full object-cover" src="./previousWork/work_1.jpg" alt="Two cups of coffee on a wooden table." />
+                        <img className="h-full w-full object-cover" src="./images/work_1.jpg" alt="Two cups of coffee on a wooden table." />
                     </div>
                 </div>
             </div>
@@ -42,7 +42,7 @@ export default function PreviousWork() {
                         className="relative h-80 lg:w-80 mt-8 lg:mt-0 -mx-4 lg:mx-0 lg:rounded-tr-10xl lg:rounded-bl-10xl overflow-hidden">
                         <div className="absolute top-0 right-0 left-0 bottom-0 opacity-30 bg-yellow-50">
                         </div>
-                        <img className="h-full w-full object-cover" src="./previousWork/work_2.jpg"
+                        <img className="h-full w-full object-cover" src="./images/work_2.jpg"
                             alt="A barista preparing coffee in Truth Coffee" />
                     </div>
                 </div>
@@ -63,7 +63,7 @@ export default function PreviousWork() {
                         className="relative h-80 lg:w-80 mt-8 lg:mt-0 -mx-4 lg:mx-0 lg:rounded-tl-10xl lg:rounded-br-10xl overflow-hidden">
                         <div className="absolute top-0 right-0 left-0 bottom-0 opacity-30 bg-yellow-50">
                         </div>
-                        <img className="h-full w-full object-cover" src="./previousWork/work_3.jpg"
+                        <img className="h-full w-full object-cover" src="./images/work_3.jpg"
                             alt="A coffee shop with people seated at tables." />
                     </div>
                 </div>

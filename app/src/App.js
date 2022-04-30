@@ -1,9 +1,9 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import GrowthTips from './components/growth-tips/GrowthTips';
-import Contact from './components/contact/Contact';
-import Home from './components/home/Home';
-import Footer from './components/footer/Footer';
+import GrowthTips from './components/GrowthTips';
+import Contact from './components/Contact';
+import Home from './components/Home';
+import Footer from './components/Footer';
 import Header from './components/Header';
 
 function App() {
