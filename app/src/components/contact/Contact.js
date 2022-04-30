@@ -4,7 +4,7 @@ export default function Contact() {
     return (
         <>
             <section className="pt-16">
-                <div className="w-full lg:flex bg-white">
+                <div className="w-full lg:flex bg-white" style={{ marginTop: 45 }}>
                     <div
                         className="relative flex-grow justify-center px-8 lg:px-20 flex items-center py-20 lg:py-48 rounded-r-full overflow-hidden">
                         <div className="absolute top-0 right-0 bottom-0 left-0 bg-gray-800">
@@ -50,7 +50,7 @@ export default function Contact() {
                                 <div className="p-2 rounded-full bg-gray-100 mr-6">
                                     <svg className="text-gray-700 fill-current" width="18" height="18" viewBox="0 0 18 18" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0)">
+                                        <g clipPath="url(#clip0)">
                                             <path
                                                 d="M17.4284 4.87413L15.4017 3.31253C15.264 3.22412 15.1142 3.15601 14.9571 3.11029C14.8006 3.05964 14.6377 3.03148 14.4733 3.02666H8.63987L9.32339 7.29333H14.4733C14.6132 7.29333 14.7881 7.26176 14.9562 7.2097C15.1244 7.15765 15.2865 7.08597 15.4008 7.00832L17.4275 5.44501C17.5427 5.36736 17.5999 5.2641 17.5999 5.16C17.5999 5.05589 17.5427 4.95264 17.4284 4.87413V4.87413ZM7.78654 1.32H6.9332C6.82004 1.32 6.71152 1.36495 6.6315 1.44496C6.55149 1.52498 6.50654 1.6335 6.50654 1.74666V4.73333H3.65982C3.51816 4.73333 3.34408 4.7649 3.17598 4.81781C3.00702 4.86901 2.84574 4.93984 2.73139 5.0192L0.704723 6.5808C0.589523 6.65845 0.533203 6.76256 0.533203 6.86666C0.533203 6.96992 0.589523 7.07317 0.704723 7.15253L2.73139 8.71584C2.84574 8.79349 3.00702 8.86517 3.17598 8.91637C3.34408 8.96842 3.51816 9 3.65982 9H6.50654V16.2533C6.50654 16.3665 6.55149 16.475 6.6315 16.555C6.71152 16.635 6.82004 16.68 6.9332 16.68H7.78654C7.8997 16.68 8.00822 16.635 8.08824 16.555C8.16825 16.475 8.2132 16.3665 8.2132 16.2533V1.74666C8.2132 1.6335 8.16825 1.52498 8.08824 1.44496C8.00822 1.36495 7.8997 1.32 7.78654 1.32V1.32Z" />
                                         </g>
@@ -74,7 +74,7 @@ export default function Contact() {
                             <div>
                                 <h2 className="text-xl lg:text-xl font-medium mb-1 text-gray-700">Have a Question?</h2>
                                 <span className="text-sm mb-4 text-gray-400">Pop us a message and we'll get in touch.</span>
-                                <form name="contact" data-netlify="true" autocomplete="off" netlify-honeypot="bot-field">
+                                <form name="contact" data-netlify="true" autoComplete="off" netlify-honeypot="bot-field">
                                     <p className="hidden">
                                         <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
                                     </p>
